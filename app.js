@@ -11,19 +11,19 @@ let options = {
   fruits: [
     "Apple",
     "Blueberry",
-    "Mandarin",
+    "banana",
     "Pineapple",
-    "Pomegranate",
+    "grapes",
     "Watermelon",
   ],
-  animals: ["Hedgehog", "Rhinoceros", "Squirrel", "Panther", "Walrus", "Zebra"],
-  countries: [
-    "India",
-    "Hungary",
-    "Kyrgyzstan",
-    "Switzerland",
-    "Zimbabwe",
-    "Dominica",
+  animals: ["horse", "Rhinoceros", "Squirrel", "snake", "dog", "Zebra"],
+  cars: [
+    "Ford",
+    "marcedes",
+    "cadillac",
+    "mazda",
+    "nissan",
+    "chevy",
   ],
 };
 
